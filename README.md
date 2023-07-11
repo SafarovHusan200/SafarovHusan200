@@ -1,4 +1,4 @@
-### <h2>I'm Husan Safarov👋| MERN Stack deveoloper</h2> 
+### <h2>I'm Husan Safarov👋| MERN Stack Deveoloper</h2> 
 
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/632c39374039b43073bb44c5d40ab15ed4a99309f0c8922f06af3eddb5e9909d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3038323033323f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d343741323438"><img src="https://camo.githubusercontent.com/632c39374039b43073bb44c5d40ab15ed4a99309f0c8922f06af3eddb5e9909d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3038323033323f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d343741323438" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/-MongoDB-082032?style=for-the-badge&amp;logo=MongoDB&amp;logoColor=47A248" style="max-width: 100%;"></a>
