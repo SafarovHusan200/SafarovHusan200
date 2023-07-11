@@ -1,4 +1,4 @@
-### Hi I'm Husan Safarov https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47wsiw601rx0zn86j5v82in4pf3bper6qhqerfaooo&ep=v1_stickers_search&rid=giphy.gif&ct=s
+### Hi I'm Husan Safarov <img src=" https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47wsiw601rx0zn86j5v82in4pf3bper6qhqerfaooo&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="img" >
 
 <!--
 **SafarovHusan200/SafarovHusan200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
