@@ -1,6 +1,6 @@
 ###  <h2>I'm Husan Safarov👋| MERN Stack deveoloper</h2>
 
-    <div style="display: flex; gap: 5px">
+
       <a
         target="_blank"
         rel="noopener noreferrer nofollow"
@@ -42,7 +42,7 @@
           data-canonical-src="https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&amp;logo=Node.js&amp;logoColor=339933"
           style="max-width: 100%"
       /></a>
-    </div>
+
 
     <br />
     ### Language and tool I work with:
