@@ -7,4 +7,4 @@
 
 <code><img src="https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" alt="html" width="27px" /> </code>
 <code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="html" width="27px" /> </code>
-<code><img src="https://assets.stickpng.com/images/613b64fe30e8530004ba3a03.png" alt="html" width="27px" /> </code>
+<code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="html" width="27px" /> </code>
