@@ -18,7 +18,9 @@
 <code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="html" width="27px" /> </code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="html" width="27px" /> </code>
 <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg" alt="html" width="27px" /> </code>
+<code><img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="html" width="27px" /> </code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="html" width="27px" /> </code>
 <code><img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="html" width="27px" /> </code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="html" width="27px" /> </code>
+<code><img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="html" width="27px" /> </code>
 
