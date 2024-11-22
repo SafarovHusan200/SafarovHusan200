@@ -1,4 +1,4 @@
-### <h2>I'm Husan Safarov👋 | MERN Stack Web Deveoloper</h2> 
+### <h2>I'm Husan Safarov👋 | MERN Stack Web Developer</h2> 
 
 
 
